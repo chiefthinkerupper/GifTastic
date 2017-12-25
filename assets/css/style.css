@@ -1,0 +1,15 @@
+.row{
+    margin: 1% 0 1% 0;
+}
+.btn{
+    margin: 3px 5px 3px 0;
+}
+.img-container{
+    margin: 5px;
+}
+.image-gifs{
+    max-height: 150px;
+}
+#space-top{
+    width: 25px;
+}
